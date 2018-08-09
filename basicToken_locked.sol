@@ -1,6 +1,6 @@
 pragma solidity ^0.4.24;
 
-import "..token.sol"
+import "./token.sol";
 
 contract XXXToken is MintableToken, BurnableToken {
   // Coin Properties
